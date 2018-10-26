@@ -1,0 +1,39 @@
+1. 
+Table of errors:
+   0.001688090537464
+   0.000420786425490
+   0.000105827546238
+   0.000026452051699
+   0.000006615676825
+Errors are decreasing as n increases, so the approximation is getting closer to the true
+solution. 
+
+Ratios:    
+   4.011751414026117
+   3.976152149888871
+   4.000731113065420
+   3.998389341052730
+
+The ratios are approaching 4, which can be written as 2^2. This shows that the convergence
+of this method is second order. 
+
+2. 
+Table of errors:
+   0.018828283494051
+   0.004697226123076
+   0.001173693071570
+   0.000293384955342
+   0.000073343844864
+
+Ratios:
+   4.008383458814835
+   4.002090697180148
+   4.000522351946607
+   4.000130561553242
+
+The ratios are 4, meaning that the convergence is second order. When comparing graphs, you can 
+see that the left side is not at pinched as the left side in the first problem, this is because
+of the mixed Neumann boundaries. 
+
+
+
